@@ -25,7 +25,7 @@ To use this package :
   dependencies:
     flutter:
       sdk: flutter
-    mk_splashscreen:
+    mk_splash_screen:
 ```
 
 ### How to use
