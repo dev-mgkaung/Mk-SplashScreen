@@ -2,6 +2,14 @@
 
 This is my first flutter package testing
 
+# step 1
+```
+name: mk_splash_screen
+description: A new Flutter package which helps developers in creating splashscreen
+version: 0.0.1
+homepage: https://github.com/dev-mgkaung/Mk-SplashScreen
+```
+
 ## Getting Started
 
 This project is a starting point for a Dart
