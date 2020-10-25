@@ -19,7 +19,7 @@ class _MyAppState extends State<MyApp> {
       seconds: 14,
       navigateAfterSeconds: new AfterSplash(),
       title: new Text(
-        'Welcome My  SplashScreen',
+        'Welcome My SplashScreen',
         style: new TextStyle(fontWeight: FontWeight.bold, fontSize: 20.0),
       ),
       image: new Image.network(
