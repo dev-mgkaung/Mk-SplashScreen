@@ -10,6 +10,11 @@ version: 0.0.1
 homepage: https://github.com/dev-mgkaung/Mk-SplashScreen
 ```
 
+# step 2 Terminal command
+
+* flutter pub publish --dry-run
+* flutter pub publish
+
 ## Getting Started
 
 This project is a starting point for a Dart
