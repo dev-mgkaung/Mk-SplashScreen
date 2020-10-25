@@ -2,7 +2,9 @@
 
 This is my first flutter package testing
 
-# step 1
+# create a new flutter package
+
+# step 1 pubspec.ymal
 ```
 name: mk_splash_screen
 description: A new Flutter package which helps developers in creating splashscreen
