@@ -35,7 +35,7 @@ class AfterSplash extends StatelessWidget {
   Widget build(BuildContext context) {
     return new Scaffold(
       appBar: new AppBar(
-        title: new Text("Welcome In SplashScreen Package"),
+        title: new Text("Welcome To My SplashScreen Package"),
         automaticallyImplyLeading: false,
       ),
       body: new Center(
