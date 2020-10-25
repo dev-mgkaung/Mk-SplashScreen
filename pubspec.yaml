@@ -1,7 +1,7 @@
 name: mk_splash_screen
 description: A new Flutter package which helps developers in creating splashscreen of their app.
 version: 0.0.1
-author: MgKaung <developermgkaung>
+author: MgKaung <devmgkaung>
 homepage: https://github.com/dev-mgkaung/Mk-SplashScreen
 
 environment:
